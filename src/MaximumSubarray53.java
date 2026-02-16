@@ -1,4 +1,4 @@
-public class MaximumSubarray53 {class Solution {
+public class MaximumSubarray53 {
     public int maxSubArray(int[] nums) {
         int maximum = Integer.MIN_VALUE,sum = 0;
         for(int i = 0; i<nums.length;i++){
@@ -10,5 +10,4 @@ public class MaximumSubarray53 {class Solution {
         }
         return maximum;
     }
-}
 }
