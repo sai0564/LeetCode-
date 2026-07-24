@@ -1,3 +1,5 @@
+package Matrix;
+
 public class _48_Rotate_Image {
     public void rotate(int[][] matrix) {
         int row = matrix.length;

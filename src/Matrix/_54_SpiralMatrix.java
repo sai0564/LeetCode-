@@ -1,3 +1,5 @@
+package Matrix;
+
 import java.util.*;
 
 public interface _54_SpiralMatrix {

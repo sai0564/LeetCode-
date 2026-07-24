@@ -1,3 +1,5 @@
+package PrefixSum;
+
 import java.util.*;
 public class _560_SubarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {

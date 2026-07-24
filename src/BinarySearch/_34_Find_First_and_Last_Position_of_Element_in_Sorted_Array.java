@@ -1,3 +1,5 @@
+package BinarySearch;
+
 class _34_Find_First_and_Last_Position_of_Element_in_Sorted_Array {
     private static int LowerBound(int[] arr, int target) {
         int low = 0;

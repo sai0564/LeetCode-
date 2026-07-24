@@ -1,3 +1,5 @@
+package Math;
+
 import java.util.*;
 public class _118_Pascal_Triangle {
     public static List<Integer> generateRow(int numRows) {

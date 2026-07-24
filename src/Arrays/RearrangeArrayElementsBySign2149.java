@@ -1,3 +1,5 @@
+package Arrays;
+
 public class RearrangeArrayElementsBySign2149 {
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length;

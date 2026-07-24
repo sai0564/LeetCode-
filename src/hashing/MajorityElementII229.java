@@ -1,3 +1,5 @@
+package hashing;
+
 import java.util.*;
 public class MajorityElementII229 {
     public List<Integer> majorityElement(int[] nums) {

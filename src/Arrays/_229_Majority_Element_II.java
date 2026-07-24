@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.*;
 public class _229_Majority_Element_II {
     public List<Integer> majorityElement(int[] nums) {

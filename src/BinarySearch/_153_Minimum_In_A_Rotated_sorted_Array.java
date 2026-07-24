@@ -1,3 +1,5 @@
+package BinarySearch;
+
 public class _153_Minimum_In_A_Rotated_sorted_Array {
         public int findMin(int[] arr) {
             int low = 0;

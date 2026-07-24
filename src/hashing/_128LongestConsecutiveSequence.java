@@ -1,3 +1,5 @@
+package hashing;
+
 import java.util.*;
 public class _128LongestConsecutiveSequence {
     public int longestConsecutive(int[] nums) {

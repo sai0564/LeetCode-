@@ -1,3 +1,5 @@
+package Arrays;
+
 public class MaximumSubarray53 {
     public int maxSubArray(int[] nums) {
         int maximum = Integer.MIN_VALUE,sum = 0;

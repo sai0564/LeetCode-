@@ -1,3 +1,5 @@
+package Arrays;
+
 public class ReplaceElementsWithGreatestElementOnRightSide1299 {
     public int[] replaceElements(int[] arr) {
         int max = -1;

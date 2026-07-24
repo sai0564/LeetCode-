@@ -1,3 +1,5 @@
+package Math;
+
 import java.util.*;
 public class _119_Pascals_TriangleII {
     public List<Integer> getRow(int rowIndex) {

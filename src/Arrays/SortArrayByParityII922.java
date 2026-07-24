@@ -1,3 +1,5 @@
+package Arrays;
+
 public class SortArrayByParityII922 {
     public int[] sortArrayByParityII(int[] nums) {
         int n = nums.length;

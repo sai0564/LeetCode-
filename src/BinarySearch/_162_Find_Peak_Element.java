@@ -1,3 +1,5 @@
+package BinarySearch;
+
 public class _162_Find_Peak_Element {
     public int findPeakElement(int[] nums) {
         int n = nums.length;
